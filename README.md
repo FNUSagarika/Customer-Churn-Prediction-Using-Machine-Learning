@@ -23,7 +23,6 @@ Key highlights of this project:
 ## **Tools and Technologies Used**  
 - **Programming Language:** Python  
 - **Libraries:** Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn  
-- **Visualization:** Power BI  
 - **Environment:** Jupyter Notebook  
 
 ---
